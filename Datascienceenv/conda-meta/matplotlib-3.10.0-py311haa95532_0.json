@@ -1,0 +1,39 @@
+{
+  "build": "py311haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "matplotlib-base >=3.10.0,<3.10.1.0a0",
+    "pyqt >=5",
+    "python >=3.11,<3.12.0a0",
+    "tornado >=5"
+  ],
+  "extracted_package_dir": "C:\\Users\\mohda\\anaconda3\\pkgs\\matplotlib-3.10.0-py311haa95532_0",
+  "files": [
+    ".nonadmin"
+  ],
+  "fn": "matplotlib-3.10.0-py311haa95532_0.conda",
+  "legacy_bz2_md5": "c08f5229a38e9f71d5c37cacab1ab4f0",
+  "legacy_bz2_size": 7742,
+  "license": "LicenseRef-PSF-based",
+  "license_family": "PSF",
+  "link": {
+    "source": "C:\\Users\\mohda\\anaconda3\\pkgs\\matplotlib-3.10.0-py311haa95532_0",
+    "type": 1
+  },
+  "md5": "f048bb2080a04990e51c77eb064fc3ae",
+  "name": "matplotlib",
+  "package_tarball_full_path": "C:\\Users\\mohda\\anaconda3\\pkgs\\matplotlib-3.10.0-py311haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "matplotlib",
+  "sha256": "c2a486faa8151014593feefb193c47fa718d7d98ca280a1aa88763dcc43a19c9",
+  "size": 7992,
+  "subdir": "win-64",
+  "timestamp": 1736279031032,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/matplotlib-3.10.0-py311haa95532_0.conda",
+  "version": "3.10.0"
+}

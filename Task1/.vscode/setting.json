@@ -1,0 +1,61 @@
+{
+
+
+    "python.defaultInterpreterPath": "C:/Users/mohda/anaconda3/python.exe",
+    "editor.formatOnSave": true,
+    "python.formatting.provider": "black",
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "jupyter.interactiveWindowMode": "perFile",
+    "jupyter.askForKernelRestart": false,
+    "jupyter.sendSelectionToInteractiveWindow": true,
+    "editor.quickSuggestions": {
+      "other": true,
+      "comments": false,
+      "strings": true
+    },
+    "editor.bracketPairColorization.enabled": true,
+    "jupyter.enableCellCodeLens": true,
+    "workbench.colorTheme": "One Dark Pro",
+    "workbench.iconTheme": "material-icon-theme",
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1000,
+    "editor.wordWrap": "on"
+    ,
+  "python.pythonPath": "./env/python.exe",
+  "terminal.integrated.env.windows": {
+    "CONDA_DEFAULT_ENV": "./env"
+  }
+  ,"python.defaultInterpreterPath": "${workspaceFolder}/env/Scripts/python.exe",
+
+  
+  "terminal.integrated.env.windows": {
+    "CONDA_DEFAULT_ENV": "${workspaceFolder}/env"
+  },
+
+ 
+  "python.linting.enabled": true,
+  "python.linting.pylintEnabled": true,
+
+
+  "editor.formatOnSave": true,
+
+  
+  "python.formatting.provider": "black",
+
+ 
+  "python.analysis.autoSearchPaths": true,
+  "python.analysis.useLibraryCodeForTypes": true,
+  "python.analysis.diagnosticMode": "workspace",
+
+
+  "jupyter.interactiveWindowMode": "perFile",
+  "jupyter.notebookFileRoot": "${workspaceFolder}",
+
+  
+  "terminal.integrated.clear": true
+  }
+
+  
+
+  

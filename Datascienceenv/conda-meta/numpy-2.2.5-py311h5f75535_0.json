@@ -1,0 +1,46 @@
+{
+  "build": "py311h5f75535_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [
+    "setuptools <74"
+  ],
+  "depends": [
+    "blas 1.0 mkl",
+    "mkl >=2023.1.0,<2024.0a0",
+    "mkl-service >=2.3.0,<3.0a0",
+    "mkl_fft",
+    "mkl_random",
+    "numpy-base 2.2.5 py311h23d94f8_0",
+    "python >=3.11,<3.12.0a0",
+    "vc >=14.2,<15.0a0",
+    "vs2015_runtime >=14.29.30133,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\mohda\\anaconda3\\pkgs\\numpy-2.2.5-py311h5f75535_0",
+  "files": [
+    ".nonadmin"
+  ],
+  "fn": "numpy-2.2.5-py311h5f75535_0.conda",
+  "legacy_bz2_md5": "e54e37f3a21ee76b157b5d4a86f863b5",
+  "legacy_bz2_size": 13391,
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\mohda\\anaconda3\\pkgs\\numpy-2.2.5-py311h5f75535_0",
+    "type": 1
+  },
+  "md5": "804bc4d45ac25ae076c42e7e50a4b145",
+  "name": "numpy",
+  "package_tarball_full_path": "C:\\Users\\mohda\\anaconda3\\pkgs\\numpy-2.2.5-py311h5f75535_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "numpy",
+  "sha256": "6f230e8206eac851c929898271583ad1e6771e0bcaef159760487158226c58cd",
+  "size": 14009,
+  "subdir": "win-64",
+  "timestamp": 1747238521963,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/numpy-2.2.5-py311h5f75535_0.conda",
+  "version": "2.2.5"
+}
